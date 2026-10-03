@@ -1,0 +1,4 @@
+numpy==1.23.5
+protobuf==6.33.6
+torch==2.8.0+cu126
+torchaudio==2.8.0+cu126

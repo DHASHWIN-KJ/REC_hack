@@ -1,0 +1,5 @@
+weights/
+data/
+*.pth
+*.pt
+src/audio/calibration.json

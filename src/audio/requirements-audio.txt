@@ -1,0 +1,10 @@
+# Audio module dependencies (add these to the root requirements.txt)
+# torch / torchaudio: use the versions pinned in the SSL_Anti-spoofing README
+# fairseq: install the exact commit given in the SSL_Anti-spoofing README
+numpy
+soundfile
+scikit-learn
+matplotlib
+silero-vad
+fastapi
+python-multipart
