@@ -1,0 +1,278 @@
+{
+  "video_id": "demo_deepfake_001",
+  "video_path": "dataset_videos/Face2Face/001_870.mp4",
+  "fps": 30.0,
+  "total_frames": 300,
+  "overall_fake_score": 0.88,
+  "overall_label": "FAKE",
+  "segments": [
+    {
+      "start_time_sec": 0.0,
+      "end_time_sec": 1.9,
+      "start_frame": 0,
+      "end_frame": 57,
+      "avg_score": 0.15,
+      "label": "REAL"
+    },
+    {
+      "start_time_sec": 2.0,
+      "end_time_sec": 5.0,
+      "start_frame": 60,
+      "end_frame": 150,
+      "avg_score": 0.94,
+      "label": "FAKE"
+    },
+    {
+      "start_time_sec": 5.1,
+      "end_time_sec": 10.0,
+      "start_frame": 153,
+      "end_frame": 300,
+      "avg_score": 0.08,
+      "label": "REAL"
+    }
+  ],
+  "frame_data": [
+    {
+      "frame_index": 0,
+      "timestamp_sec": 0.0,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 10,
+      "timestamp_sec": 0.33,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 20,
+      "timestamp_sec": 0.67,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 30,
+      "timestamp_sec": 1.0,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 40,
+      "timestamp_sec": 1.33,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 50,
+      "timestamp_sec": 1.67,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 60,
+      "timestamp_sec": 2.0,
+      "fake_score": 0.92,
+      "rgb_score": 0.87,
+      "freq_score": 0.9500000000000001,
+      "heatmap_path": "/static/heatmaps/demo_vid/frame_0060.jpg"
+    },
+    {
+      "frame_index": 70,
+      "timestamp_sec": 2.33,
+      "fake_score": 0.92,
+      "rgb_score": 0.87,
+      "freq_score": 0.9500000000000001,
+      "heatmap_path": "/static/heatmaps/demo_vid/frame_0070.jpg"
+    },
+    {
+      "frame_index": 80,
+      "timestamp_sec": 2.67,
+      "fake_score": 0.92,
+      "rgb_score": 0.87,
+      "freq_score": 0.9500000000000001,
+      "heatmap_path": "/static/heatmaps/demo_vid/frame_0080.jpg"
+    },
+    {
+      "frame_index": 90,
+      "timestamp_sec": 3.0,
+      "fake_score": 0.92,
+      "rgb_score": 0.87,
+      "freq_score": 0.9500000000000001,
+      "heatmap_path": "/static/heatmaps/demo_vid/frame_0090.jpg"
+    },
+    {
+      "frame_index": 100,
+      "timestamp_sec": 3.33,
+      "fake_score": 0.92,
+      "rgb_score": 0.87,
+      "freq_score": 0.9500000000000001,
+      "heatmap_path": "/static/heatmaps/demo_vid/frame_0100.jpg"
+    },
+    {
+      "frame_index": 110,
+      "timestamp_sec": 3.67,
+      "fake_score": 0.92,
+      "rgb_score": 0.87,
+      "freq_score": 0.9500000000000001,
+      "heatmap_path": "/static/heatmaps/demo_vid/frame_0110.jpg"
+    },
+    {
+      "frame_index": 120,
+      "timestamp_sec": 4.0,
+      "fake_score": 0.92,
+      "rgb_score": 0.87,
+      "freq_score": 0.9500000000000001,
+      "heatmap_path": "/static/heatmaps/demo_vid/frame_0120.jpg"
+    },
+    {
+      "frame_index": 130,
+      "timestamp_sec": 4.33,
+      "fake_score": 0.92,
+      "rgb_score": 0.87,
+      "freq_score": 0.9500000000000001,
+      "heatmap_path": "/static/heatmaps/demo_vid/frame_0130.jpg"
+    },
+    {
+      "frame_index": 140,
+      "timestamp_sec": 4.67,
+      "fake_score": 0.92,
+      "rgb_score": 0.87,
+      "freq_score": 0.9500000000000001,
+      "heatmap_path": "/static/heatmaps/demo_vid/frame_0140.jpg"
+    },
+    {
+      "frame_index": 150,
+      "timestamp_sec": 5.0,
+      "fake_score": 0.92,
+      "rgb_score": 0.87,
+      "freq_score": 0.9500000000000001,
+      "heatmap_path": "/static/heatmaps/demo_vid/frame_0150.jpg"
+    },
+    {
+      "frame_index": 160,
+      "timestamp_sec": 5.33,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 170,
+      "timestamp_sec": 5.67,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 180,
+      "timestamp_sec": 6.0,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 190,
+      "timestamp_sec": 6.33,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 200,
+      "timestamp_sec": 6.67,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 210,
+      "timestamp_sec": 7.0,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 220,
+      "timestamp_sec": 7.33,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 230,
+      "timestamp_sec": 7.67,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 240,
+      "timestamp_sec": 8.0,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 250,
+      "timestamp_sec": 8.33,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 260,
+      "timestamp_sec": 8.67,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 270,
+      "timestamp_sec": 9.0,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 280,
+      "timestamp_sec": 9.33,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    },
+    {
+      "frame_index": 290,
+      "timestamp_sec": 9.67,
+      "fake_score": 0.12,
+      "rgb_score": 0.06999999999999999,
+      "freq_score": 0.15,
+      "heatmap_path": null
+    }
+  ],
+  "model_version": "v1.0-fusion",
+  "processing_time_ms": 1450
+}

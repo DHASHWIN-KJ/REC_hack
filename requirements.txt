@@ -1,0 +1,11 @@
+# Video Pipeline Dependencies
+torch
+torchvision
+timm
+opencv-python
+numpy
+pydantic
+pytest
+tqdm
+facenet-pytorch
+scikit-learn
